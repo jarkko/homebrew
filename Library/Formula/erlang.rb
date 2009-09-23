@@ -15,7 +15,7 @@ end
 class Erlang <Formula
   @homepage='http://www.erlang.org'
   @url='http://erlang.org/download/otp_src_R13B02.tar.gz'
-  @md5='80048e589272db810f5d536f47050ab8'
+  @md5='d70bfba6935e52a7759168a35fbcabe7'
 
   # def patches
   #   [
